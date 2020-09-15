@@ -20,7 +20,7 @@ It can monitor the temperature, humidity and light intensity of the room locally
 
 The wring between each module is shown in the figure below:
 
-![Hardware](.\Hardware.png)
+![Hardware](https://github.com/pic/Hardware.png)
 
 (Since our atomizer is powered by MicroUSB, here we use MicroUSB to represent the atomizer.)
 
